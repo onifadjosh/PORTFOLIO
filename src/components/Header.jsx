@@ -174,8 +174,8 @@ const Header = () => {
             </div>
 
             <div className="row2-col2 flex basis-[30%]  border-l-2 border-[#000] bg-[#b3b0ba]">
-                <div className="w-[80%] bg-[url('src/assets/2a-Edited-josh.png')] bg-cover bg-center">
-                    {/* <img src="src/assets/2a-Edited-josh.png" alt="a head pic of me" srcSet="" className="h-full"/> */}
+                <div className="w-[80%] bg-[url('./assets/2a-Edited-josh.png')] bg-cover bg-center">
+                    
                 </div>
 
                 <div className='side-content relative -right-full flex flex-col overflow-hidden w-[20%]  border-l-2  border-[#000]  bg-[#b3b0ba]'>
